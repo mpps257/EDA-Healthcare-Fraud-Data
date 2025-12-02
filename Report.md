@@ -15,10 +15,18 @@ This report outlines the characteristics of the input dataset, presents insights
 
 ## 2. Observations on EDA
 
-# My Plotly Graph
 
-<iframe src="output_htmls\CompleteAgeDistribution.html" width="800" height="600"></iframe>
-[View interactive Plotly graph](output_htmls/CompleteAgeDistribution.html)
+<table>
+  <tr>
+    <td><img src="output_images/CompleteAgeDist.png" width="1000"/></td>
+    <td><img src="output_images/Age Dist In & Out.png" width="1000"/></td>
+  </tr>
+  <tr>
+    <td><img src="output_images/Age Dist In.png" width="1000"/></td>
+    <td><img src="output_images/Age Dist Out.png" width="1000"/></td>
+  </tr>
+</table>
+
 
 
 ### 2.1 Environment Configuration
