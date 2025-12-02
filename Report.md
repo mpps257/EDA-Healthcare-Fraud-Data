@@ -27,7 +27,7 @@ This report outlines the characteristics of the input dataset, presents insights
     <td><img src="output_images/Age Dist Out.png" width="1000"/></td>
   </tr>
 </table>
-Here we can observe that most of the patients lie in the age group 80 - 100 years, since most of the data points are pretty old the age distribution need not necessarily be realistic, as we can also see cases where patients are beyond age of 100 years also.
+Here we can observe that most of the patients lie in the age group 65 - 90 years, From this we can conclude that most of the patients are elderly people.
 
 ## Proportions of Fraudulant Cases
 - Since we are given information with regards to fraudulent providers and non fraudulent providers we can check the proportions of them.
