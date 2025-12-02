@@ -59,10 +59,10 @@ Here we can observe that most of the patients lie in the age group 80 - 100 year
 
 <table>
   <tr>
-    <td><img src="output_images/FraudVsNonFraudChronicConditionsInPatient.png" width="1000"/></td>
-    <td><img src="output_images/FraudVsNonFraudChronicConditionsOutPatient.png" width="1000"/></td>
+    <td><img src="output_images/FraudVsNonFraudChronicConditionsInPatient.png" width="300"/></td>
+    <td><img src="output_images/FraudVsNonFraudChronicConditionsOutpatient.png" width="300"/></td>
   </tr>
-  </table>
+</table>
 
 - Since we can see chronic ailments can be more probable frauds we can expect them to have some kind of operating procedures done. So we can definitely check this areas where there frauds can be more prevailant.
 
