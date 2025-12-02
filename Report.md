@@ -18,6 +18,8 @@ This report outlines the characteristics of the input dataset, presents insights
 # My Plotly Graph
 
 <iframe src="output_htmls\CompleteAgeDistribution.html" width="800" height="600"></iframe>
+[View interactive Plotly graph](output_htmls/CompleteAgeDistribution.html)
+
 
 ### 2.1 Environment Configuration
 The experiments were conducted under controlled conditions to ensure reproducibility and fair comparison between both implementations. Isolated execution to minimize external interference. Similar approach is followed for further comparisons also.
